@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=有 趣 ？我 玩 一 下 !&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="introduce">
-</p>
+![picture](https://raw.githubusercontent.com/shengxi-rise/shengxi-rise/refs/heads/main/assets/bg.png)
 
 <p align="center">
   <a target="_blank" href="https://blog.xsaistudio.cn/">Blog</a> •
